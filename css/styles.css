@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #007bff;
+    color: #fff;
+}
+
+footer {
+    background: #f8f9fa;
+    color: #333;
+}
